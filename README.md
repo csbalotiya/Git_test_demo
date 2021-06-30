@@ -21,3 +21,11 @@ Upload of project from scratch require git pull origin master.
 
 If any problem occurs in pushing use git push --force origin master
 
+
+
+// list of all repo.
+git remote -v
+
+
+//remove all repo in folder :
+rm -rf .git
