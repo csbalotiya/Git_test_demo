@@ -29,3 +29,14 @@ git remote -v
 
 //remove all repo in folder :
 rm -rf .git
+
+
+
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/csbalotiya/Theasdwwdp.git
+git push -u origin main
